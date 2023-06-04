@@ -43,7 +43,7 @@ footer {
     clear: both;
 }
 
-@media(max-width:680px) {
+@media(minwidth: 319px) and (max-width:480px) {
     .logo {
         width: 100px;
     }
